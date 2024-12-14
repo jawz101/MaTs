@@ -75,7 +75,10 @@
 127.0.0.1 cdn.adsninja.ca
 
 # [adsrvr.org]
+127.0.0.1 ca4-bid.adsrvr.org
+127.0.0.1 enduser.adsrvr.org
 127.0.0.1 js.adsrvr.org
+127.0.0.1 s.update.adsrvr.org
 
 # [adswizz.com]
 127.0.0.1 cdn.adswizz.com
@@ -112,6 +115,7 @@
 # [amazon-adsystem.com]
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 c.aps.amazon-adsystem.com
 127.0.0.1 aes.us-east.ono.axp.amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
@@ -178,6 +182,7 @@
 127.0.0.1 sentry.appodeal.com
 
 # [appsflyer.com]
+127.0.0.1 aps-webhandler.appsflyer.com
 127.0.0.1 conversions.appsflyer.com
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 launches.appsflyer.com
@@ -228,6 +233,7 @@
 127.0.0.1 eexf8h-register.appsflyersdk.com
 127.0.0.1 evtfpo-cdn-settings.appsflyersdk.com
 127.0.0.1 evtfpo-conversions.appsflyersdk.com
+127.0.0.1 evtfpo-launches.appsflyersdk.com
 127.0.0.1 fw7hco-cdn-settings.appsflyersdk.com
 127.0.0.1 fw7hco-conversions.appsflyersdk.com
 127.0.0.1 fynwid-cdn-settings.appsflyersdk.com
@@ -245,6 +251,8 @@
 127.0.0.1 k3c2rk-cdn-settings.appsflyersdk.com
 127.0.0.1 k3c2rk-conversions.appsflyersdk.com
 127.0.0.1 ki6tf1-cdn-settings.appsflyersdk.com
+127.0.0.1 ki6tf1-conversions.appsflyersdk.com
+127.0.0.1 ki6tf1-dlsdk.appsflyersdk.com
 127.0.0.1 ki6tf1-launches.appsflyersdk.com
 127.0.0.1 kwuaop-cdn-settings.appsflyersdk.com
 127.0.0.1 kwuaop-conversions.appsflyersdk.com
@@ -265,8 +273,11 @@
 127.0.0.1 pacc6p-cdn-settings.appsflyersdk.com
 127.0.0.1 pacc6p-conversions.appsflyersdk.com
 127.0.0.1 pacc6p-launches.appsflyersdk.com
+127.0.0.1 pdz3kk-attr.appsflyersdk.com
 127.0.0.1 pdz3kk-cdn-settings.appsflyersdk.com
+127.0.0.1 pdz3kk-conversions.appsflyersdk.com
 127.0.0.1 pdz3kk-launches.appsflyersdk.com
+127.0.0.1 pdz3kk-register.appsflyersdk.com
 127.0.0.1 pvgnq1-attr.appsflyersdk.com
 127.0.0.1 pvgnq1-cdn-settings.appsflyersdk.com
 127.0.0.1 pvgnq1-conversions.appsflyersdk.com
@@ -507,6 +518,7 @@
 
 # [discomax.com]
 127.0.0.1 events.prd.api.discomax.com
+127.0.0.1 telegraph.prd.api.discomax.com
 
 # [disneyadvertising.com]
 127.0.0.1 beacons.digital.disneyadvertising.com
@@ -521,12 +533,17 @@
 127.0.0.1 login-ds.dotomi.com
 
 # [doubleclick.net]
+127.0.0.1 accounts.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 static.doubleclick.net
+
+# [doubleverify.com]
+127.0.0.1 tps.doubleverify.com
+127.0.0.1 tpsc-video-uw.doubleverify.com
 
 # [dpgmedia.cloud]
 127.0.0.1 advertising-module.api.dpgmedia.cloud
@@ -537,6 +554,7 @@
 127.0.0.1 st.dynamicyield.com
 
 # [dynatrace.com]
+127.0.0.1 bf20578xco.bf.dynatrace.com
 127.0.0.1 bf78180lnp.bf.dynatrace.com
 127.0.0.1 js-cdn.dynatrace.com
 
@@ -562,6 +580,13 @@
 # [evolv.ai]
 127.0.0.1 media.evolv.ai
 
+# [ex.co]
+127.0.0.1 cdn-channels-pixel.ex.co
+127.0.0.1 player.ex.co
+
+# [extremereach.io]
+127.0.0.1 beacons.extremereach.io
+
 # [ezoic.net]
 127.0.0.1 go.ezoic.net
 
@@ -581,6 +606,10 @@
 
 # [flagship.io]
 127.0.0.1 decision.flagship.io
+
+# [flashtalking.com]
+127.0.0.1 ad-events.flashtalking.com
+127.0.0.1 servedby.flashtalking.com
 
 # [flurry.com]
 127.0.0.1 api.ads.flurry.com
@@ -680,7 +709,11 @@
 # [gvt3.com]
 127.0.0.1 beacons5.gvt3.com
 
+# [htlbid.com]
+127.0.0.1 htlbid.com
+
 # [hulu.com]
+127.0.0.1 t2.hulu.com
 127.0.0.1 vortex.hulu.com
 
 # [igodigital.com]
@@ -733,6 +766,7 @@
 127.0.0.1 tnc16-useast1a.isnssdk.com
 
 # [ispot.tv]
+127.0.0.1 pi.ispot.tv
 127.0.0.1 pt.ispot.tv
 
 # [iterable.com]
@@ -812,6 +846,7 @@
 
 # [marketingcloudapis.com]
 127.0.0.1 mc-kzgvx04-jk8n38gyn7s08m1d8.device.marketingcloudapis.com
+127.0.0.1 mck521q-ksvnjhgm3kxwd0cx-t91.device.marketingcloudapis.com
 
 # [mayoclinic.org]
 127.0.0.1 tagdelivery.mayoclinic.org
@@ -876,6 +911,7 @@
 127.0.0.1 s.ntv.io
 
 # [omtrdc.net]
+127.0.0.1 hulu.hb.omtrdc.net
 127.0.0.1 nbcstreaming.hb-api.omtrdc.net
 127.0.0.1 charlesschwab.sc.omtrdc.net
 127.0.0.1 concursolutionsus.sc.omtrdc.net
@@ -904,6 +940,9 @@
 127.0.0.1 odb.outbrain.com
 127.0.0.1 widgets.outbrain.com
 
+# [p-n.io]
+127.0.0.1 cdn.p-n.io
+
 # [pangle.io]
 127.0.0.1 ssdk-sg.pangle.io
 
@@ -925,6 +964,9 @@
 
 # [playrix.com]
 127.0.0.1 stats.playrix.com
+
+# [pointmediatracker.com]
+127.0.0.1 bpm-pixel.pointmediatracker.com
 
 # [posthog.com]
 127.0.0.1 us.i.posthog.com
@@ -963,6 +1005,7 @@
 
 # [qualtrics.com]
 127.0.0.1 siteintercept.qualtrics.com
+127.0.0.1 zn5hjdvprnmcx7x7g-arvest.siteintercept.qualtrics.com
 127.0.0.1 zn77bj959ah5p9gtm-cars.siteintercept.qualtrics.com
 
 # [quantserve.com]
@@ -984,6 +1027,9 @@
 # [relevant-digital.com]
 127.0.0.1 wetteronline-pbs.relevant-digital.com
 
+# [revcontent.com]
+127.0.0.1 assets.revcontent.com
+
 # [revenuads.com]
 127.0.0.1 api.revenuads.com
 
@@ -1001,6 +1047,9 @@
 # [s-onetag.com]
 127.0.0.1 get.s-onetag.com
 
+# [sail-horizon.com]
+127.0.0.1 ak.sail-horizon.com
+
 # [saygames.io]
 127.0.0.1 track.saygames.io
 
@@ -1011,6 +1060,9 @@
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 census-app.scorecardresearch.com
 127.0.0.1 sb.scorecardresearch.com
+
+# [script.ac]
+127.0.0.1 cadmus.script.ac
 
 # [segment.com]
 127.0.0.1 cdn-settings.segment.com
@@ -1026,6 +1078,9 @@
 
 # [serving-sys.com]
 127.0.0.1 bs.serving-sys.com
+
+# [sfgate.com]
+127.0.0.1 u927.sfgate.com
 
 # [sgsnssdk.com]
 127.0.0.1 pangolin16.sgsnssdk.com
@@ -1044,6 +1099,9 @@
 
 # [singular.net]
 127.0.0.1 sdk-api-v1.singular.net
+
+# [skimresources.com]
+127.0.0.1 s.skimresources.com
 
 # [smaato.net]
 127.0.0.1 hbsdk-config.log.smaato.net
@@ -1144,6 +1202,15 @@
 # [tobsnssdk.com]
 127.0.0.1 toblog.tobsnssdk.com
 
+# [trackonomics.net]
+127.0.0.1 cdn-magiclinks.trackonomics.net
+
+# [tremorhub.com]
+127.0.0.1 events.tremorhub.com
+
+# [truoptik.com]
+127.0.0.1 dmp.truoptik.com
+
 # [trustarc.com]
 127.0.0.1 consent.trustarc.com
 
@@ -1152,6 +1219,12 @@
 
 # [tuanguwen.com]
 127.0.0.1 cross-promos.tuanguwen.com
+
+# [tvisioninsights.com]
+127.0.0.1 ctv.tvisioninsights.com
+
+# [tvpixel.com]
+127.0.0.1 p.tvpixel.com
 
 # [tvsquared.com]
 127.0.0.1 collector-40192.us.tvsquared.com
@@ -1224,6 +1297,9 @@
 # [vungle.com]
 127.0.0.1 config.ads.vungle.com
 127.0.0.1 events.ads.vungle.com
+
+# [vzw.com]
+127.0.0.1 engage.vzw.com
 
 # [walmart.com]
 127.0.0.1 drfdisvc.walmart.com
