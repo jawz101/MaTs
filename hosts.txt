@@ -819,7 +819,6 @@
 127.0.0.1 svnyhs-conversions.appsflyersdk.com
 127.0.0.1 sw88.go.com
 127.0.0.1 sweb.ulta.com
-127.0.0.1 swebmetrics.ok.gov.sc.omtrdc.net
 127.0.0.1 sxvbqd-cdn-settings.appsflyersdk.com
 127.0.0.1 sxvbqd-conversions.appsflyersdk.com
 127.0.0.1 sxvbqd-register.appsflyersdk.com
