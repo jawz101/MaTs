@@ -622,7 +622,6 @@
 127.0.0.1 obfhi0-conversions.appsflyersdk.com
 127.0.0.1 ocd.yodo1api.com
 127.0.0.1 odb.outbrain.com
-127.0.0.1 oklahomaomes.demdex.net
 127.0.0.1 olc.yodo1api.com
 127.0.0.1 omes.tt.omtrdc.net
 127.0.0.1 ophan.theguardian.com
