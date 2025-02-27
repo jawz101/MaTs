@@ -53,8 +53,6 @@
 127.0.0.1 adsmetadata.startappservice.com
 127.0.0.1 advertising-module.api.dpgmedia.cloud
 127.0.0.1 ae.iads.unity3d.com
-127.0.0.1 ae.mmstat.com
-127.0.0.1 aiq-in.popularmechanics.com
 127.0.0.1 airlytics.airlock.twcmobile.weather.com
 127.0.0.1 amdc.m.taobao.com
 127.0.0.1 amplify.outbrain.com
@@ -114,7 +112,6 @@
 127.0.0.1 aps-webhandler.appsflyer.com
 127.0.0.1 ariane.abtasty.com
 127.0.0.1 as.casalemedia.com
-127.0.0.1 assets.alicdn.com
 127.0.0.1 assets.bounceexchange.com
 127.0.0.1 assets.iterable.com
 127.0.0.1 assets.kampyle.com
@@ -124,7 +121,6 @@
 127.0.0.1 b.fox.com
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 bbc.gscontxt.net
-127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon.tru.am
@@ -184,7 +180,6 @@
 127.0.0.1 charlesschwab.sc.omtrdc.net
 127.0.0.1 check.rayjump.com
 127.0.0.1 clevertap-prod.com
-127.0.0.1 cm.mgid.com
 127.0.0.1 cmp.inmobi.com
 127.0.0.1 cmp.uniconsent.com
 127.0.0.1 collect.analytics.unity3d.com
@@ -312,7 +307,6 @@
 127.0.0.1 i.paypal.com
 127.0.0.1 identity.cheatmyvegas.com
 127.0.0.1 identity.mparticle.com
-127.0.0.1 idsync.rlcdn.com
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 images.outbrainimg.com
 127.0.0.1 images.taboola.com
@@ -434,7 +428,6 @@
 127.0.0.1 phillateemis.iad-03.braze.com
 127.0.0.1 pi.ispot.tv
 127.0.0.1 pix.nbcuni.com
-127.0.0.1 pixel.advertising.com
 127.0.0.1 placements.tapjoy.com
 127.0.0.1 platform.iteratehq.com
 127.0.0.1 plausible.io
@@ -442,7 +435,6 @@
 127.0.0.1 pok.mintegral.net
 127.0.0.1 policy.rayjump.com
 127.0.0.1 poole-collector-prod.n3twork.com
-127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 prd1.personalization.centech.glulive.com
 127.0.0.1 prd1.revid.centech.glulive.com
 127.0.0.1 prd1.session.centech.glulive.com
@@ -514,13 +506,11 @@
 127.0.0.1 sdk.iad-08.braze.com
 127.0.0.1 sdk.split.io
 127.0.0.1 sdkapicdn.applanga.com
-127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 secure-asts.imrworldwide.com
 127.0.0.1 secure-dcr.vtwenty.com
 127.0.0.1 secure-gl.imrworldwide.com
 127.0.0.1 secure-gl.vtwenty.com
 127.0.0.1 secure-us.vtwenty.com
-127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 segment-data-us-east.zqtk.net
@@ -534,13 +524,11 @@
 127.0.0.1 sleepnumber.hrzn-nxt.com
 127.0.0.1 snssdk1233.onelink.me
 127.0.0.1 solutions.invocacdn.com
-127.0.0.1 sommelier.futurehybrid.tech
 127.0.0.1 somni.choicehotels.com
 127.0.0.1 sonar6.xy.fbcdn.net
 127.0.0.1 sp-ao.shortpixel.ai
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 ssdk-sg.pangle.io
-127.0.0.1 ssl.google-analytics.com
 127.0.0.1 sslwidget.criteo.com
 127.0.0.1 st.dynamicyield.com
 127.0.0.1 startup.mobile.yandex.net
@@ -562,22 +550,17 @@
 127.0.0.1 sweb.ulta.com
 127.0.0.1 sxvbqd-cdn-settings.appsflyersdk.com
 127.0.0.1 sync.adkernel.com
-127.0.0.1 sync.inmobi.com
-127.0.0.1 sync.outbrain.com
 127.0.0.1 synchrobox.adswizz.com
 127.0.0.1 synchroscript.deliveryengine.adswizz.com
 127.0.0.1 szgi2u-cdn-settings.appsflyersdk.com
 127.0.0.1 t.channeladvisor.com
-127.0.0.1 t.co
 127.0.0.1 t.contentsquare.net
 127.0.0.1 t.e-mails.microsoft.com
-127.0.0.1 t.myvisualiq.net
 127.0.0.1 t.pubperf.com
 127.0.0.1 t.teads.tv
 127.0.0.1 t2.hulu.com
 127.0.0.1 ta-collector.centurygame.com
 127.0.0.1 tag.wknd.ai
-127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 telegraph.prd.api.discomax.com
 127.0.0.1 telemetry.sdk.inmobi.com
@@ -598,7 +581,6 @@
 127.0.0.1 trc.taboola.com
 127.0.0.1 treecom.d2.sc.omtrdc.net
 127.0.0.1 trends.revcontent.com
-127.0.0.1 trinitymedia.ai
 127.0.0.1 trk.clinch.co
 127.0.0.1 ucid.vindicosuite.com
 127.0.0.1 ue.flipboard.com
@@ -609,10 +591,8 @@
 127.0.0.1 universal.iper2.com
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 us-east-1.ingaa.xyz
-127.0.0.1 us-u.openx.net
 127.0.0.1 us.i.posthog.com
 127.0.0.1 us.telemetry.zoom.us
-127.0.0.1 us.ynuf.aliapp.org
 127.0.0.1 us1.clevertap-prod.com
 127.0.0.1 usasync01.admantx.com
 127.0.0.1 ut.ra.linksynergy.com
