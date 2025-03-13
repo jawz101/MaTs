@@ -32,10 +32,8 @@
 127.0.0.1 aa.agkn.com
 127.0.0.1 aan.amazon.com
 127.0.0.1 aax-us-east-retail-direct.amazon.com
-127.0.0.1 aax-us-east-retail-rtb.amazon.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us.amazon-adsystem.com
-127.0.0.1 accounts.doubleclick.net
 127.0.0.1 ad-events.flashtalking.com
 127.0.0.1 ad-host-backup-america.s3.us-west-1.amazonaws.com
 127.0.0.1 ad.leap.app
@@ -117,7 +115,6 @@
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 beacon.krxd.net
-127.0.0.1 beacon.walmart.com
 127.0.0.1 beacons.digital.disneyadvertising.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
@@ -162,7 +159,6 @@
 127.0.0.1 collector-9152.us.tvsquared.com
 127.0.0.1 collector-pxaoit9cn0.perimeterx.net
 127.0.0.1 collector-pxuarm9b04.perimeterx.net
-127.0.0.1 collector.brandmetrics.com
 127.0.0.1 concursolutionsus.sc.omtrdc.net
 127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config.ads.vungle.com
@@ -222,7 +218,6 @@
 127.0.0.1 event.tradplusad.com
 127.0.0.1 events.ads.vungle.com
 127.0.0.1 events.claspws.tv
-127.0.0.1 events.mapbox.com
 127.0.0.1 events.prd.api.discomax.com
 127.0.0.1 events.swishapps.ai
 127.0.0.1 events.tremorhub.com
@@ -255,7 +250,6 @@
 127.0.0.1 identity.cheatmyvegas.com
 127.0.0.1 identity.mparticle.com
 127.0.0.1 images.outbrainimg.com
-127.0.0.1 images.taboola.com
 127.0.0.1 img.connatix.com
 127.0.0.1 in.cuebiq.com
 127.0.0.1 infoevent.startappservice.com
@@ -416,7 +410,6 @@
 127.0.0.1 rt.applovin.com
 127.0.0.1 rt.applvn.com
 127.0.0.1 rules.aatkit.com
-127.0.0.1 rules.quantcount.com
 127.0.0.1 rules2.aatkit.com
 127.0.0.1 rules3.aatkit.com
 127.0.0.1 s-static.innovid.com
@@ -424,7 +417,6 @@
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 s2s.adjust.com
 127.0.0.1 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
-127.0.0.1 s7.addthis.com
 127.0.0.1 scar.unityads.unity3d.com
 127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 sdk-events.inner-active.mobi
