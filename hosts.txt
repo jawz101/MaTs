@@ -1,5 +1,6 @@
 127.0.0.1 1rbj6p-cdn-settings.appsflyersdk.com
 127.0.0.1 2c5de9923d36.cdn4.forter.com
+127.0.0.1 2c98o5fq6nb6o1tf7aredr6991kre1743129879.uaid.vtwenty.com
 127.0.0.1 31124.api.swrve.com
 127.0.0.1 31124.content.swrve.com
 127.0.0.1 7227272.collect.igodigital.com
@@ -33,9 +34,14 @@
 127.0.0.1 a.myfidevs.io
 127.0.0.1 a.topaz-analytics.com
 127.0.0.1 a048f939-8c5d-4bf2-8a11-bedeade637ed.register.collector.scopely.io
+127.0.0.1 a1007.casalemedia.com
+127.0.0.1 a1017.casalemedia.com
+127.0.0.1 a151.casalemedia.com
+127.0.0.1 a188.casalemedia.com
 127.0.0.1 a2986850373.cdn.optimizely.com
 127.0.0.1 a314.gameloft.com
 127.0.0.1 a4695g-cdn-settings.appsflyersdk.com
+127.0.0.1 a511.casalemedia.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aan.amazon.com
 127.0.0.1 aax-us-east-retail-direct.amazon.com
@@ -72,6 +78,7 @@
 127.0.0.1 analytics.aweber.com
 127.0.0.1 analytics.hardlightgames.com
 127.0.0.1 analytics.htmedia.in
+127.0.0.1 analytics.internal-tools.vizor-games.com
 127.0.0.1 analytics.localytics.com
 127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 analytics.query.yahoo.com
@@ -124,22 +131,26 @@
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 auiuwt-cdn-settings.appsflyersdk.com
 127.0.0.1 b.stats.paypal.com
+127.0.0.1 b.videoamp.com
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 beacon.krxd.net
 127.0.0.1 beacons.digital.disneyadvertising.com
+127.0.0.1 beacons.extremereach.io
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 bf20578xco.bf.dynatrace.com
 127.0.0.1 bf57182ppy.bf.dynatrace.com
-127.0.0.1 bids.concert.io
+127.0.0.1 bpm-pixel.pointmediatracker.com
+127.0.0.1 bqhmbo-cdn-settings.appsflyersdk.com
+127.0.0.1 bqhmbo-conversions.appsflyersdk.com
+127.0.0.1 bqhmbo-inapps.appsflyersdk.com
 127.0.0.1 braze-images.com
 127.0.0.1 c.evidon.com
 127.0.0.1 c.live.com
 127.0.0.1 c2s.sdkless.appsflyer.com
 127.0.0.1 ca4-bid.adsrvr.org
 127.0.0.1 cbsinteractive.data.adobedc.net
-127.0.0.1 cdn-4.convertexperiments.com
 127.0.0.1 cdn-gl.nmrodam.com
 127.0.0.1 cdn-media.brightline.tv
 127.0.0.1 cdn-pci.optimizely.com
@@ -153,9 +164,7 @@
 127.0.0.1 cdn.jst.ai
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.mobilefuse.com
-127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.shareaholic.net
-127.0.0.1 cdn.sophi.io
 127.0.0.1 cdn.ynuf.aliapp.org
 127.0.0.1 cdn2.inner-active.mobi
 127.0.0.1 cdp.cloud.unity3d.com
@@ -208,6 +217,7 @@
 127.0.0.1 default.exp-tas.com
 127.0.0.1 delivery.consentmanager.net
 127.0.0.1 device-api.urbanairship.com
+127.0.0.1 disney.my.sentry.io
 127.0.0.1 dl.episerver.net
 127.0.0.1 dls2s.appsflyer.com
 127.0.0.1 dlsdk.appsflyer.com
@@ -226,7 +236,6 @@
 127.0.0.1 engage.vzw.com
 127.0.0.1 eu.i.posthog.com
 127.0.0.1 eum.instana.io
-127.0.0.1 eus-api.ccgateway.net
 127.0.0.1 event.tradplusad.com
 127.0.0.1 events.ads.vungle.com
 127.0.0.1 events.claspws.tv
@@ -244,6 +253,7 @@
 127.0.0.1 flag.lab.amplitude.com
 127.0.0.1 fourier.taobao.com
 127.0.0.1 foxentertainment.hb-api.omtrdc.net
+127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fw7hco-cdn-settings.appsflyersdk.com
 127.0.0.1 gamestop-app.quantummetric.com
 127.0.0.1 gdl.news-cdn.site
@@ -283,6 +293,7 @@
 127.0.0.1 int.vaicore.store
 127.0.0.1 int.vaicore.xyz
 127.0.0.1 io-candivore-prod1.collector.snplow.net
+127.0.0.1 ir.surveywall-api.survata.com
 127.0.0.1 iteratehq.com
 127.0.0.1 ixp.eventbus.intuit.com
 127.0.0.1 j2xeqm-inapps.appsflyersdk.com
@@ -292,6 +303,7 @@
 127.0.0.1 jk4dlx-dlsdk.appsflyersdk.com
 127.0.0.1 jk4dlx-register.appsflyersdk.com
 127.0.0.1 k3c2rk-cdn-settings.appsflyersdk.com
+127.0.0.1 k8s1-event-tracker-ny.lb.indexww.com
 127.0.0.1 kefu.easemob.com
 127.0.0.1 ki6tf1-cdn-settings.appsflyersdk.com
 127.0.0.1 ki6tf1-conversions.appsflyersdk.com
@@ -306,9 +318,10 @@
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 lazy-tcp.rayjump.com
 127.0.0.1 lazy.rayjump.com
+127.0.0.1 lighthouse.edoinc.com
 127.0.0.1 live.chartboost.com
+127.0.0.1 lma.npaw.com
 127.0.0.1 locate.pricespider.com
-127.0.0.1 log.go.com
 127.0.0.1 log.particlenews.com
 127.0.0.1 log.snow.me
 127.0.0.1 logagent-wf.centurygame.com
@@ -357,6 +370,7 @@
 127.0.0.1 nbcstreaming.hb-api.omtrdc.net
 127.0.0.1 o-sdk.mediation.unity3d.com
 127.0.0.1 o1069899.ingest.sentry.io
+127.0.0.1 o1118521.ingest.us.sentry.io
 127.0.0.1 o1263666.ingest.sentry.io
 127.0.0.1 o2129.ingest.sentry.io
 127.0.0.1 o264092.ingest.sentry.io
@@ -365,6 +379,7 @@
 127.0.0.1 o430870.ingest.sentry.io
 127.0.0.1 o446669.ingest.sentry.io
 127.0.0.1 o448786.ingest.sentry.io
+127.0.0.1 o4508134825000960.ingest.us.sentry.io
 127.0.0.1 o49196.ingest.sentry.io
 127.0.0.1 o770047.ingest.sentry.io
 127.0.0.1 o82024.ingest.sentry.io
@@ -442,6 +457,7 @@
 127.0.0.1 rules3.aatkit.com
 127.0.0.1 s-static.innovid.com
 127.0.0.1 s.innovid.com
+127.0.0.1 s.pixsrvcs.com
 127.0.0.1 s.youtube.com
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 s2c75l-cdn-settings.appsflyersdk.com
@@ -457,6 +473,7 @@
 127.0.0.1 sdk-events.inner-active.mobi
 127.0.0.1 sdk-files.smaato.net
 127.0.0.1 sdk-hb-cfg.smaato.net
+127.0.0.1 sdk-mas.yodo1.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
 127.0.0.1 sdk.fra-01.braze.eu
 127.0.0.1 sdk.fra-02.braze.eu
@@ -471,6 +488,7 @@
 127.0.0.1 secure-dcr.vtwenty.com
 127.0.0.1 secure-gl.vtwenty.com
 127.0.0.1 secure-us.vtwenty.com
+127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 sentry.appodeal.com
 127.0.0.1 sephora.sc.omtrdc.net
@@ -478,7 +496,6 @@
 127.0.0.1 service.fyber.com
 127.0.0.1 servicelayer.king.com
 127.0.0.1 sistr2.data.adobedc.net
-127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sleepnumber.hrzn-nxt.com
 127.0.0.1 snssdk1233.onelink.me
 127.0.0.1 solutions.invocacdn.com
@@ -501,6 +518,8 @@
 127.0.0.1 t2.hulu.com
 127.0.0.1 ta-collector.centurygame.com
 127.0.0.1 tags.expo9.exponential.com
+127.0.0.1 tatari-direct-ipv4-prod.telemetry.vaultdcr.com
+127.0.0.1 tatari-direct-ipv6-prod.telemetry.vaultdcr.com
 127.0.0.1 telegraph.prd.api.discomax.com
 127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 tgcgbf-cdn-settings.appsflyersdk.com
@@ -527,7 +546,9 @@
 127.0.0.1 unif-id.ssp.inmobi.com
 127.0.0.1 unified.adsafeprotected.com
 127.0.0.1 universal.iper2.com
+127.0.0.1 us-east-1.event.prod.bidr.io
 127.0.0.1 us-east-1.ingaa.xyz
+127.0.0.1 us-west-2.event.prod.bidr.io
 127.0.0.1 us.i.posthog.com
 127.0.0.1 us.telemetry.zoom.us
 127.0.0.1 us1.clevertap-prod.com
@@ -535,6 +556,8 @@
 127.0.0.1 uufkum-cdn-settings.appsflyersdk.com
 127.0.0.1 v8tb0o-cdn-settings.appsflyersdk.com
 127.0.0.1 verizontelecom.sc.omtrdc.net
+127.0.0.1 vid-io-iad.springserve.com
+127.0.0.1 vid-io-pdx.springserve.com
 127.0.0.1 video-ads-module.ad-tech.nbcuni.com
 127.0.0.1 view.adjust.com
 127.0.0.1 vik-analytics.moonactive.net
@@ -558,6 +581,7 @@
 127.0.0.1 x.blueduckredapple.com
 127.0.0.1 x.everestop.io
 127.0.0.1 x.thecatmachine.com
+127.0.0.1 xrwg5sqsapnv2d290iwrmnlgilx911743111836.uaid.vtwenty.com
 127.0.0.1 yderht-cdn-settings.appsflyersdk.com
 127.0.0.1 yob13u-cdn-settings.appsflyersdk.com
 127.0.0.1 yveeft-cdn-settings.appsflyersdk.com
