@@ -549,9 +549,9 @@
 127.0.0.1 us-east-1.event.prod.bidr.io
 127.0.0.1 us-east-1.ingaa.xyz
 127.0.0.1 us-west-2.event.prod.bidr.io
-127.0.0.1 us.i.posthog.com
 127.0.0.1 us.telemetry.zoom.us
 127.0.0.1 us1.clevertap-prod.com
+127.0.0.1 usw-ca2.adsrvr.org
 127.0.0.1 ut.ra.linksynergy.com
 127.0.0.1 uufkum-cdn-settings.appsflyersdk.com
 127.0.0.1 v8tb0o-cdn-settings.appsflyersdk.com
