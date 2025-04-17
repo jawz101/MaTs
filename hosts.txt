@@ -46,7 +46,6 @@
 127.0.0.1 agkn.com
 127.0.0.1 core.airbridge.io
 127.0.0.1 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
-127.0.0.1 api.us-east-1.aiv-delivery.net
 127.0.0.1 int.akisinn.info
 127.0.0.1 int.akisinn.site
 127.0.0.1 cdn.ynuf.aliapp.org
@@ -96,6 +95,7 @@
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 c2s.sdkless.appsflyer.com
 127.0.0.1 1rbj6p-cdn-settings.appsflyersdk.com
+127.0.0.1 2nz8lq-cdn-settings.appsflyersdk.com
 127.0.0.1 7givd0-cdn-settings.appsflyersdk.com
 127.0.0.1 9fs5e0-cdn-settings.appsflyersdk.com
 127.0.0.1 9fs5e0-launches.appsflyersdk.com
@@ -123,7 +123,13 @@
 127.0.0.1 evtfpo-launches.appsflyersdk.com
 127.0.0.1 f4jk8s-launches.appsflyersdk.com
 127.0.0.1 fw7hco-cdn-settings.appsflyersdk.com
+127.0.0.1 goxqze-cdn-settings.appsflyersdk.com
+127.0.0.1 goxqze-conversions.appsflyersdk.com
+127.0.0.1 goxqze-dlsdk.appsflyersdk.com
+127.0.0.1 goxqze-register.appsflyersdk.com
 127.0.0.1 htpebh-cdn-settings.appsflyersdk.com
+127.0.0.1 hwzd4d-cdn-settings.appsflyersdk.com
+127.0.0.1 hwzd4d-dlsdk.appsflyersdk.com
 127.0.0.1 j2xeqm-inapps.appsflyersdk.com
 127.0.0.1 jdfwmd-cdn-settings.appsflyersdk.com
 127.0.0.1 jk4dlx-cdn-settings.appsflyersdk.com
@@ -145,8 +151,13 @@
 127.0.0.1 pacc6p-cdn-settings.appsflyersdk.com
 127.0.0.1 pacc6p-conversions.appsflyersdk.com
 127.0.0.1 pacc6p-launches.appsflyersdk.com
+127.0.0.1 pd1aca-cdn-settings.appsflyersdk.com
+127.0.0.1 pd1aca-conversions.appsflyersdk.com
+127.0.0.1 pdz3kk-attr.appsflyersdk.com
 127.0.0.1 pdz3kk-cdn-settings.appsflyersdk.com
+127.0.0.1 pdz3kk-conversions.appsflyersdk.com
 127.0.0.1 pdz3kk-launches.appsflyersdk.com
+127.0.0.1 pdz3kk-register.appsflyersdk.com
 127.0.0.1 pvgnq1-cdn-settings.appsflyersdk.com
 127.0.0.1 qaqftd-cdn-settings.appsflyersdk.com
 127.0.0.1 qaqftd-conversions.appsflyersdk.com
@@ -166,6 +177,8 @@
 127.0.0.1 svnyhs-cdn-settings.appsflyersdk.com
 127.0.0.1 sxvbqd-cdn-settings.appsflyersdk.com
 127.0.0.1 szgi2u-cdn-settings.appsflyersdk.com
+127.0.0.1 tazigv-cdn-settings.appsflyersdk.com
+127.0.0.1 tazigv-conversions.appsflyersdk.com
 127.0.0.1 tgcgbf-cdn-settings.appsflyersdk.com
 127.0.0.1 tgcgbf-conversions.appsflyersdk.com
 127.0.0.1 tgcgbf-dlsdk.appsflyersdk.com
@@ -188,6 +201,9 @@
 127.0.0.1 l1.audiomob.com
 127.0.0.1 analytics.aweber.com
 127.0.0.1 eastus-8.in.applicationinsights.azure.com
+127.0.0.1 clt.banggood.com
+127.0.0.1 dc.banggood.com
+127.0.0.1 rec.banggood.com
 127.0.0.1 ws.batch.com
 127.0.0.1 wsmetrics.batch.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
@@ -239,7 +255,6 @@
 127.0.0.1 d.adroll.mgr.consensu.org
 127.0.0.1 delivery.consentmanager.net
 127.0.0.1 mobile-production.content-square.net
-127.0.0.1 t.contentsquare.net
 127.0.0.1 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 127.0.0.1 cws-hulu.conviva.com
 127.0.0.1 conviva.com
@@ -271,11 +286,13 @@
 127.0.0.1 tpsc-video-uw.doubleverify.com
 127.0.0.1 doubleverify.com
 127.0.0.1 advertising-module.api.dpgmedia.cloud
+127.0.0.1 improving.duckduckgo.com
 127.0.0.1 vtrk.dv.tech
 127.0.0.1 vr46.dxnt.net
 127.0.0.1 bf20578xco.bf.dynatrace.com
 127.0.0.1 bf57182ppy.bf.dynatrace.com
 127.0.0.1 kefu.easemob.com
+127.0.0.1 s3-analytics-events.easybrain.com
 127.0.0.1 lighthouse.edoinc.com
 127.0.0.1 me-client.eservice.emarsys.net
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
@@ -314,6 +331,7 @@
 127.0.0.1 api.ads.flurry.com
 127.0.0.1 data.flurry.com
 127.0.0.1 2c5de9923d36.cdn4.forter.com
+127.0.0.1 9e97cf8b099a.cdn4.forter.com
 127.0.0.1 e15aa556c556.cdn4.forter.com
 127.0.0.1 e309da9b9aaf.cdn4.forter.com
 127.0.0.1 f091b59bb4cc.cdn4.forter.com
@@ -331,7 +349,6 @@
 127.0.0.1 prd1.revid.centech.glulive.com
 127.0.0.1 prd1.session.centech.glulive.com
 127.0.0.1 s2.go-mpulse.net
-127.0.0.1 google-analytics.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
@@ -351,7 +368,9 @@
 127.0.0.1 hrzn-nxt.com
 127.0.0.1 analytics.htmedia.in
 127.0.0.1 t2.hulu.com
+127.0.0.1 views.hulu.com
 127.0.0.1 vortex.hulu.com
+127.0.0.1 183153.t.hyros.com
 127.0.0.1 7227272.collect.igodigital.com
 127.0.0.1 secure-asts.imrworldwide.com
 127.0.0.1 secure-gl.imrworldwide.com
@@ -398,6 +417,7 @@
 127.0.0.1 assets.kampyle.com
 127.0.0.1 api.kickoffo.site
 127.0.0.1 servicelayer.king.com
+127.0.0.1 a.klaviyo.com
 127.0.0.1 kvinit-prod.api.kochava.com
 127.0.0.1 icm.kochava.com
 127.0.0.1 beacon.krxd.net
@@ -430,7 +450,6 @@
 127.0.0.1 media.net
 127.0.0.1 mediago.io
 127.0.0.1 mgid.com
-127.0.0.1 8cmfzco0.micpn.com
 127.0.0.1 cxkacncr.micpn.com
 127.0.0.1 analytics-tcp.mintegral.net
 127.0.0.1 pok.mintegral.net
@@ -438,6 +457,7 @@
 127.0.0.1 adsmetadata.mobileadexchange.net
 127.0.0.1 943.engine.mobileapptracking.com
 127.0.0.1 cdn.mobilefuse.com
+127.0.0.1 client-metrics.moonactive.net
 127.0.0.1 vik-analytics.moonactive.net
 127.0.0.1 config2.mparticle.com
 127.0.0.1 identity.mparticle.com
@@ -448,11 +468,9 @@
 127.0.0.1 k-ring.msedge.net
 127.0.0.1 dns.msftncsi.com
 127.0.0.1 configure-tcp-android.mtgglobals.com
-127.0.0.1 a.myfidevs.io
 127.0.0.1 poole-collector-prod.n3twork.com
 127.0.0.1 nam.veta.naver.com
 127.0.0.1 video-ads-module.ad-tech.nbcuni.com
-127.0.0.1 pix.nbcuni.com
 127.0.0.1 app.adjust.net.in
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 gdl.news-cdn.site
@@ -478,7 +496,6 @@
 127.0.0.1 mobile-data.onetrust.io
 127.0.0.1 hearsttelevision-d.openx.net
 127.0.0.1 a2986850373.cdn.optimizely.com
-127.0.0.1 cdn-pci.optimizely.com
 127.0.0.1 amplifypixel.outbrain.com
 127.0.0.1 outbrain.com
 127.0.0.1 images.outbrainimg.com
@@ -533,13 +550,13 @@
 127.0.0.1 a048f939-8c5d-4bf2-8a11-bedeade637ed.register.collector.scopely.io
 127.0.0.1 config.sdk.scopely.io
 127.0.0.1 census-app.scorecardresearch.com
-127.0.0.1 scorecardresearch.com
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 o1069899.ingest.sentry.io
 127.0.0.1 o1263666.ingest.sentry.io
 127.0.0.1 o2129.ingest.sentry.io
 127.0.0.1 o264092.ingest.sentry.io
 127.0.0.1 o270910.ingest.sentry.io
+127.0.0.1 o30277.ingest.sentry.io
 127.0.0.1 o348491.ingest.sentry.io
 127.0.0.1 o430870.ingest.sentry.io
 127.0.0.1 o446669.ingest.sentry.io
@@ -606,7 +623,9 @@
 127.0.0.1 track.tenjin.com
 127.0.0.1 serve.tercept.com
 127.0.0.1 x.thecatmachine.com
+127.0.0.1 collect.tieszhu.com
 127.0.0.1 os-mon.tieszhu.com
+127.0.0.1 www.tieszhu.com
 127.0.0.1 toblog.tobsnssdk.com
 127.0.0.1 a.topaz-analytics.com
 127.0.0.1 push-api.topaz-analytics.com
@@ -662,8 +681,6 @@
 127.0.0.1 secure-dcr.vtwenty.com
 127.0.0.1 secure-gl.vtwenty.com
 127.0.0.1 secure-us.vtwenty.com
-127.0.0.1 2c98o5fq6nb6o1tf7aredr6991kre1743129879.uaid.vtwenty.com
-127.0.0.1 xrwg5sqsapnv2d290iwrmnlgilx911743111836.uaid.vtwenty.com
 127.0.0.1 adx.ads.vungle.com
 127.0.0.1 config.ads.vungle.com
 127.0.0.1 events.ads.vungle.com
@@ -675,6 +692,7 @@
 127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 airlytics.airlock.twcmobile.weather.com
 127.0.0.1 and-ads.pulse.weatherbug.net
+127.0.0.1 triplewhale-pixel.web.app
 127.0.0.1 analytics.wildlifestudios.com
 127.0.0.1 conversion-value-assets.wildlifestudios.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
@@ -690,6 +708,10 @@
 127.0.0.1 mobile.yandexadexchange.net
 127.0.0.1 yengo.com
 127.0.0.1 sdk-mas.yodo1.com
+127.0.0.1 ocd.yodo1api.com
+127.0.0.1 olc.yodo1api.com
+127.0.0.1 rodeoconfig.yodo1api.com
+127.0.0.1 uc-ap.yodo1api.com
 127.0.0.1 s.youtube.com
 127.0.0.1 ads-bi.zenkube.com
 127.0.0.1 databoat.zenkube.com
