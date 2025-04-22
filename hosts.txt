@@ -40,7 +40,6 @@
 127.0.0.1 adsrvr.org
 127.0.0.1 zc.adswizz.com
 127.0.0.1 secure.leadback.advertising.com
-127.0.0.1 static.affiliatly.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 mver.agkn.com
 127.0.0.1 agkn.com
@@ -551,7 +550,6 @@
 127.0.0.1 config.sdk.scopely.io
 127.0.0.1 census-app.scorecardresearch.com
 127.0.0.1 cdn-settings.segment.com
-127.0.0.1 o1069899.ingest.sentry.io
 127.0.0.1 o1263666.ingest.sentry.io
 127.0.0.1 o2129.ingest.sentry.io
 127.0.0.1 o264092.ingest.sentry.io
