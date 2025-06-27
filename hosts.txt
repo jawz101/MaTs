@@ -119,7 +119,6 @@
 127.0.0.1 ms.applvn.com
 127.0.0.1 ms4.applvn.com
 127.0.0.1 rt.applvn.com
-127.0.0.1 app-measurement.com
 127.0.0.1 sentry.appodeal.com
 127.0.0.1 aps-webhandler.appsflyer.com
 127.0.0.1 conversions.appsflyer.com
