@@ -1,12 +1,9 @@
 127.0.0.1 c.sayhi.360.cn
-127.0.0.1 t.shop.10xhealthsystem.com
 127.0.0.1 a-iad3.1rx.io
 127.0.0.1 trackedevt.1rx.io
-127.0.0.1 lp.24leanlife.com
 127.0.0.1 staging-eb2.3lift.com
 127.0.0.1 staging-tlx.3lift.com
 127.0.0.1 s.update.3lift.com
-127.0.0.1 5d32q.com
 127.0.0.1 prod.cm.publishers.advertising.a2z.com
 127.0.0.1 prod.tahoe-analytics.publishers.advertising.a2z.com
 127.0.0.1 rules.aatkit.com
@@ -75,8 +72,6 @@
 127.0.0.1 a.adtng.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 e-11666.adzerk.net
-127.0.0.1 app.aepinfo.com
-127.0.0.1 images.aepinfo.com
 127.0.0.1 gamedot.afafb.com
 127.0.0.1 middle-defend.afafb.com
 127.0.0.1 mp-api.afafb.com
@@ -118,7 +113,6 @@
 127.0.0.1 l1-1.anzu.io
 127.0.0.1 us-behavior.apitd.net
 127.0.0.1 log1.apkomega.com
-127.0.0.1 apcdp.apnews.com
 127.0.0.1 a.appbaqend.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 ads.appbundledownload.com
@@ -1017,7 +1011,6 @@
 127.0.0.1 io-candivore-prod1.collector.snplow.net
 127.0.0.1 d.socdm.com
 127.0.0.1 sezbe.softsurroundings.com
-127.0.0.1 soptimize.southwest.com
 127.0.0.1 tv.springserve.com
 127.0.0.1 vid-io-iad.springserve.com
 127.0.0.1 vid-io-pdx.springserve.com
@@ -1072,7 +1065,6 @@
 127.0.0.1 toolforthought.com
 127.0.0.1 a.topaz-analytics.com
 127.0.0.1 push-api.topaz-analytics.com
-127.0.0.1 load.cl.total-wellnessguide.com
 127.0.0.1 api.tradplusad.com
 127.0.0.1 event.tradplusad.com
 127.0.0.1 media.trafficjunky.net
